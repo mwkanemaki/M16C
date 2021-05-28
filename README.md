@@ -5,7 +5,10 @@ APPLICATION NOTE
 M16C/62
 Programming the M16C/62 in Flash Parallel Mode
 
-
+The M16C/62 flash can be programmed using one of three methods: 
+Parallel I/O Mode, 
+Standard Serial I/O Mode, 
+CPU Rewrite Mode. 
 
 
 
